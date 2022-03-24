@@ -1,16 +1,10 @@
-# trivia_questions
+# Trivia Questions 
 
-A new Flutter project.
+A Flutter project that pulls True/False trivia questions from an API when the user requests a new question, with the answer displayed when user clicks show answer. 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Demonstration on iOS Simulator:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+https://user-images.githubusercontent.com/82115280/159913088-ee15936f-d7ab-4d56-98eb-6f7dde63679a.mov
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
