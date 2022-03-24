@@ -2,7 +2,7 @@
 
 A Flutter project that pulls True/False trivia questions from an API when the user requests a new question, with the answer displayed when user clicks show answer. 
 
-
+Body of dart code is in 'Lib' folder. 
 
 Demonstration on iOS Simulator:
 
